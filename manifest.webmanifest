@@ -1,0 +1,16 @@
+{
+  "name": "Hunter World",
+  "short_name": "Hunter World",
+  "description": "RPG 2D de caçadores",
+  "start_url": "./?offline=1",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#120e1d",
+  "theme_color": "#120e1d",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
